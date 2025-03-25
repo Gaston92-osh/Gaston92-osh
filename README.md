@@ -2,7 +2,7 @@
 - 👀 I’m interested in DATA STRUCTURES, DATA MINING & DATA ANALYSIS
 - 🌱 I’m currently learning PYTHON & SQL.
 - 💞️ I’m looking to collaborate on .GIT.
-- 📫 How to reach me ...
+- 📫 How to reach me.
 - 😄 Pronouns: .HE.
 - ⚡ Fun fact: .TESTS.
 
